@@ -8,6 +8,7 @@
 __pycache__/
 .DS_Store/
 .ruff_cache/
+FSM_example_bot.service
 
 
 test.py
